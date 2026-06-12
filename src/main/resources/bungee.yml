@@ -1,0 +1,3 @@
+name: YuanReconnect
+version: '1.0-SNAPSHOT'
+main: org.yuan_dev.yuanReconnect.YuanReconnect
